@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanisha Daharwal</h1>
+<h1 align="center">Hi 👋, I'm Tanisha :)</h1>
 <h3 align="center">Sophomore at IIT Ropar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishadaharwal&label=Profile%20views&color=0e75b6&style=flat" alt="tanishadaharwal" /> </p>
