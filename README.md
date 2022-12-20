@@ -2,7 +2,7 @@
 <h3 align="center">Sophomore at IIT Ropar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishadaharwal&label=Profile%20views&color=0e75b6&style=flat" alt="tanishadaharwal" /> </p>
-
+<img align = "right" width = "400" height = "300" src = "https://pics.freeicons.io/uploads/icons/png/21018612781549345955-512.png">
 - 🌱 I’m currently learning **DSA, Frontend Web & App Development**
 
 - 📫 How to reach me **tanisha22daharwal@gmail.com**
