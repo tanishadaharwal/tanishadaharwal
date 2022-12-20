@@ -20,7 +20,6 @@
 <p align="left"> 
 <img src="https://pics.freeicons.io/uploads/icons/png/9096637371536208089-512.png" alt="C++" width="40" height="40"/>
 <img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
