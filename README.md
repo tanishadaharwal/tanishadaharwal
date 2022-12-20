@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/5starmichelin_5" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" alt="5starmichelin_5" height="40" width="50" /></a>
+<a href="https://twitter.com/5starmichelin_5" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/7723321031557740373-512.png" alt="5starmichelin_5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanisha-daharwal-4b2394226" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" alt="tanisha-daharwal-4b2394226" height="30" width="40" /></a>
 <a href="https://instagram.com/tanisha.on.ig" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png" alt="tanisha.on.ig" height="30" width="40" /></a>
 </p>
