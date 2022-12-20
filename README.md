@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tanisha22daharwal@gmail.com**
 
-- ⚡ Fun fact **I have a great music taste <3**
+- ⚡ Fun fact **I have a great taste in music<3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
