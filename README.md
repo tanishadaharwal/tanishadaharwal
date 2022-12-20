@@ -8,7 +8,6 @@
 - 📫 How to reach me **tanisha22daharwal@gmail.com**
 
 - ⚡ Fun fact **I have a great taste in music <3**
-<p align = "right"><img align = "right" width = "400" height = "300" src = "https://pics.freeicons.io/uploads/icons/png/21018612781549345955-512.png"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/5starmichelin_5" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/7723321031557740373-512.png" alt="5starmichelin_5" height="30" width="40" /></a>
