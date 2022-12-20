@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/tanisha-daharwal-4b2394226" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" alt="tanisha-daharwal-4b2394226" height="30" width="40" /></a>
 <a href="https://instagram.com/tanisha.on.ig" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png" alt="tanisha.on.ig" height="30" width="40" /></a>
 </p>
-<img align="right" alt="Anya" width="400" src="https://user-images.githubusercontent.com/92244020/208748373-ec085b1b-5f89-4f23-a502-f94e8861d1c3.png>
+<img align="right" alt="Anya" width="400" src="https://user-images.githubusercontent.com/92244020/208748373-ec085b1b-5f89-4f23-a502-f94e8861d1c3.png">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
