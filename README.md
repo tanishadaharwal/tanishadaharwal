@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tanisha22daharwal@gmail.com**
 
-- ⚡ Fun fact **I have a great taste in music <3**
+
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Anya" width="300" src="https://user-images.githubusercontent.com/92244020/208748373-ec085b1b-5f89-4f23-a502-f94e8861d1c3.png">
 <p align="left">
