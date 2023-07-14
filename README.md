@@ -28,5 +28,5 @@
 <img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" alt="CSS" width="40" height="40"/>
  
  </p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishadaharwal&show_icons=true&locale=en&layout=compact" alt="tanishadaharwal" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishadaharwal&show_icons=true&locale=en" alt="tanishadaharwal" /></p>
