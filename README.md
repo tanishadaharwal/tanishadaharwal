@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishadaharwal&label=Profile%20views&color=0e75b6&style=flat" alt="tanishadaharwal" /> </p>
 
-- 🌱 Currently exploring **Web & App Development**!
+- 🌱 Currently exploring **Machine Learning, Ai and Web Development**!
 
 - 📫 How to reach me **tanisha22daharwal@gmail.com**
 
