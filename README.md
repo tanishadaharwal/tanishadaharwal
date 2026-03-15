@@ -8,15 +8,6 @@
 - 📫 How to reach me **tanisha22daharwal@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<img align="right" alt="Anya" width="300" src="https://user-images.githubusercontent.com/92244020/208748373-ec085b1b-5f89-4f23-a502-f94e8861d1c3.png">
-<p align="left">
-<a href="https://twitter.com/5starmichelin_5" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/7723321031557740373-512.png" alt="5starmichelin_5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanisha-daharwal-4b2394226" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" alt="tanisha-daharwal-4b2394226" height="30" width="40" /></a>
-<a href="https://instagram.com/tanisha.on.ig" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png" alt="tanisha.on.ig" height="30" width="40" /></a>
-</p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://pics.freeicons.io/uploads/icons/png/9096637371536208089-512.png" alt="C++" width="40" height="40"/>
